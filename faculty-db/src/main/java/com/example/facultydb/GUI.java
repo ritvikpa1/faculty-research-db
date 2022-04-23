@@ -1,4 +1,4 @@
-
+package com.example.facultydb;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
